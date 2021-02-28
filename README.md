@@ -4,5 +4,6 @@
 
 ### The objective here is to perform a complete EDA (Exploratory Data Analysis) on the data provided.
 
-### HomeCreditDefaultRisk.ipynb - EDA Notebook
-### HomeCreditDefaultRisk_Presentation - Project Presentation
+### Files in this repository:
+* HomeCreditDefaultRisk.ipynb - EDA Notebook
+* HomeCreditDefaultRisk_Presentation - Project Presentation
